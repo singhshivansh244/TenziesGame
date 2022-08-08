@@ -2,7 +2,7 @@
   "name": "tenzesgame",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://singhshivansh244.github.io",
+  "homepage": "https://singhshivansh244.github.io/TenziesGame",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.16.5",
